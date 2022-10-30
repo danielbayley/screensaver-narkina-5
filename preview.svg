@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640">
+  <style type="text/css">
+    path {
+      fill: none;
+      stroke: white;
+      stroke-width: 48;
+      stroke-linecap: square
+    }
+    svg { background-color: #1A1A1A }
+  </style>
+  <path d="M576 352h128v128M384 160h64v128M384 288h128M192 352h128M192 480h128v-64H192M384 352h128M384 416h128v64H384zM192 160h128v128H192zM960 480h128M960 352h128v64H960zM768 416h128M768 352h128v128H768zM576 160h128v64H576M576 288h128M768 160h128v128H768M768 224h128M1088 224H960v-64M1088 288V160"/>
+</svg>
